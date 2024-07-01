@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../03-counter-app-cra/03-counter-app-cra.iml" filepath="$PROJECT_DIR$/../03-counter-app-cra/03-counter-app-cra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03-counter-app-vite/03-counter-app-vite.iml" filepath="$PROJECT_DIR$/../03-counter-app-vite/03-counter-app-vite.iml" />
+    </modules>
+  </component>
+</project>
